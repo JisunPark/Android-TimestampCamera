@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:drawableLeft="@drawable/selector_checkbox"
+    android:drawablePadding="5dp"
+    android:gravity="center_vertical"
+    android:padding="5dp"
+    android:text="1280x960"
+    android:textColor="@drawable/selector_txt_picture_size"
+    android:textSize="20sp" />

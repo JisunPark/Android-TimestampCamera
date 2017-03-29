@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timestamp Camera</string>
+    <string name="picture_size">Picture Size</string>
+    <string name="text_position">텍스트 위치</string>
+</resources>
